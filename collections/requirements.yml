@@ -13,6 +13,8 @@ collections:
     version: ">=3.0.0"
   - name: community.vmware
     version: ">=5.8.0"
+  - name: vmware.vmware
+    version: ">=2.5.0"
   - name: kubernetes.core
     version: ">=6.0.0"
   - name: google.cloud
